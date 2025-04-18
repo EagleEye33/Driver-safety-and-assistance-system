@@ -43,9 +43,7 @@ python drowsiness_detector.py
 - Make sure to have a webcam or video feed available for real-time processing.
 - Adjust the camera settings as needed for optimal performance.
 - To test the sample video feed, replace `0` with the path to your video file in the respective script.
-
-3. **(Upcoming) Vehicle/Object Detection and Proximity Alerts**
-Will be added soon in proximity_detector.py
+- **(Upcoming) Vehicle/Object Detection and Proximity Alerts** - will be added soon in proximity_detector.py
 
 
 ### 4.🧠 Technologies Used
@@ -58,10 +56,10 @@ Will be added soon in proximity_detector.py
 4. **YOLOv8 / YOLOv5** – Object detection (for future modules)
 
 5. **Python** – Glue for everything
-
+---
 
 **🤝 Contributing**
-Want to help make this better? Found a bug or want to add a new feature?
+- Want to help make this better? Found a bug or want to add a new feature?
 
 1. Fork this repository
 
@@ -72,11 +70,13 @@ Want to help make this better? Found a bug or want to add a new feature?
 4. Push to your branch (git push origin feature-name)
 
 5. Create a Pull Request
+---
 
 **📧 Contact**
-Feel free to reach out if you're interested in collaborating or have questions.
+- Feel free to reach out if you're interested in collaborating or have questions.
 
+---
 **⭐️ Final Note**
-This is a passion project to build smart safety systems using AI and computer vision.
+- This is a passion project to build smart safety systems using AI and computer vision.
 Feel free to fork, star, and contribute. Let’s make driving safer together. ❤️
 
