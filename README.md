@@ -2,7 +2,7 @@
 
 An advanced real-time Driver Assistance System that monitors lane discipline, detects driver drowsiness, and alerts for potential collisions or unsafe proximity to other vehicles and pedestrians using computer vision.
 
-Built with ❤️ using OpenCV, Mediapipe, and deep learning.
+Built with ❤️ using OpenCV, Mediapipe, and Deep Learning.
 
 ---
 
