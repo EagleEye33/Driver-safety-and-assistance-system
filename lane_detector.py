@@ -81,7 +81,7 @@ def process_frame(frame):
     return combined
 
 # Load a video or use webcam
-cap = cv2.VideoCapture(r"C:\Users\pankp\OneDrive\Desktop\pyprojects\DriveAssist\test_video2.mp4")  # or 0 for webcam
+cap = cv2.VideoCapture(0)  # or 'path_to_video.mp4'
 
 while cap.isOpened():
     ret, frame = cap.read()
